@@ -1,5 +1,5 @@
-# dio-live-dynamodb
-Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
+# Exercício DIO - DynamoDB
+Criando um repositório de música, adicionando músicas da Marília Mendonça
 
 ### Serviço utilizado
   - Amazon DynamoDB
