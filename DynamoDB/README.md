@@ -2,7 +2,7 @@
 Criando um repositório de música, baseado na aula Boas práticas com DynamoDB, adicionando músicas da Marília Mendonça e do Zé Neto e Cristiano
 
 ### Importante:
-- Esses códigos são para versão linux, se a sua máquina for Windowns tire o '\'
+- Esses códigos são para versão linux, se a sua máquina for Windowns tire o contra barra
 - Para executar o código no prompt de comando não se esqueça de baixar o AWS Command Line Interface
 
 
