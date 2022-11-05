@@ -1,0 +1,166 @@
+{
+  "Music": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Artist": {
+            "S": "Marília Mendonça"
+          },
+          "SongTitle": {
+            "S": "Ciumeira"
+          },
+          "AlbumTitle": {
+            "S": "Todos os Cantos"
+          },
+          "SongYear": {
+            "S": "2019"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Artist": {
+            "S": "Marília Mendonça"
+          },
+          "SongTitle": {
+            "S": "Sem sal"
+          },
+          "AlbumTitle": {
+            "S": "Todos os Cantos"
+          },
+          "SongYear": {
+            "S": "2019"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Artist": {
+            "S": "Marília Mendonça"
+          },
+          "SongTitle": {
+            "S": "Bem pior que eu"
+          },
+          "AlbumTitle": {
+            "S": "Todos os Cantos"
+          },
+          "SongYear": {
+            "S": "2019"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Artist": {
+            "S": "Marília Mendonça"
+          },
+          "SongTitle": {
+            "S": "Casa da Mãe Joana"
+          },
+          "AlbumTitle": {
+            "S": "Todos os Cantos"
+          },
+          "SongYear": {
+            "S": "2019"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Artist": {
+            "S": "Marília Mendonça"
+          },
+          "SongTitle": {
+            "S": "Bye Bye"
+          },
+          "AlbumTitle": {
+            "S": "Todos os Cantos"
+          },
+          "SongYear": {
+            "S": "2019"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Artist": {
+            "S": "Marília Mendonça"
+          },
+          "SongTitle": {
+            "S": "Todo Mundo Vai Sofrer"
+          },
+          "AlbumTitle": {
+            "S": "Todos os Cantos"
+          },
+          "SongYear": {
+            "S": "2019"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Artist": {
+            "S": "Marília Mendonça"
+          },
+          "SongTitle": {
+            "S": "Serenata"
+          },
+          "AlbumTitle": {
+            "S": "Todos os Cantos"
+          },
+          "SongYear": {
+            "S": "2019"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Artist": {
+            "S": "Marília Mendonça"
+          },
+          "SongTitle": {
+            "S": "Graveto"
+          },
+          "AlbumTitle": {
+            "S": "Todos os Cantos"
+          },
+          "SongYear": {
+            "S": "2019"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Artist": {
+            "S": "Marília Mendonça"
+          },
+          "SongTitle": {
+            "S": "Apaixonadinha"
+          },
+          "AlbumTitle": {
+            "S": "Todos os Cantos"
+          },
+          "SongYear": {
+            "S": "2019"
+          }
+        }
+      }
+    }
+  ]
+}
