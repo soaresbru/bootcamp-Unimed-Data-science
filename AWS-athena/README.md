@@ -1,5 +1,18 @@
-# dio-live-athena
-Repositório para a live do dia 01/10/2021 sobre o Amazon Athena
+# Explorando Dados Demográficos com Serviços de Big Data na AWS
+
+### Criação de queries para saber:
+- A soma da população total
+- Ver a população de uma cidade
+- As cidade do RJ ordenando pela população em ordem crescente
+- As 5 cidades do Brasil com maior população
+- As 5 cidades do Brasil com menor população
+- Os estados que possuem a média de população maior que 100 mil
+
+### Base de dados:
+Está no arquivo: brazil_population_2019.csv
+
+### Editado de:
+https://github.com/cassianobrexbit/dio-live-athena
 
 ### Serviços utilizados nessa atividade prática
  - Amazon S3
